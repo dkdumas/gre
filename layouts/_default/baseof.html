@@ -52,7 +52,7 @@
 	</script>
 </head>
 <body class='body{{ if (in .Site.BaseURL "localhost") }} localhost{{ end }}'>
-	{{ if or (in .Site.BaseURL "localhost") (in .Site.BaseURL "test") }}
+	{{ if (in .Site.BaseURL "localhost") }}
 	<div class="test-header">{{ .Site.BaseURL }}</div>
 	{{ end }}
 	<div class="container container--outer">
