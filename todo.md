@@ -102,3 +102,6 @@
 - move province descriptions from garden to separate files?
 - recover gallia aquitania entries? https://github.com/roman-gardens/gre/commit/06b191b293c531a31dca04631b02d031a3a1b32d
 - document how theme files should be edited (not in mainroad directory!)
+- Bibliography first item actually two? https://roman-gardens.github.io/province/italia/rome/regio_x_palatium/domus_augustana/
+- duplicate image hispania_tarraconensis/albaledejo
+- many dupl images in thugga -- warning!  the "2" image may be older (missing additional label/green patch)

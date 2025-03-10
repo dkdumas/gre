@@ -18,6 +18,10 @@ body {
   line-height: 1.3;
 }
 
+body.localhost {
+  background: #8cf;
+}
+
 body.test-a {
   background: #f44;
 }
@@ -32,19 +36,8 @@ div.test-header {
 }
 
 div.container {
-  margin: 0 auto 25px;
+  margin: 0 auto;
 }
-
-
-/* test website styles*/
-body.test {
-  background: #f2fd30;
-}
-.test-header {
-  text-align: center;
-  font-size: 24pt;
-}
-
 
 .container--outer {
 	margin: 0 auto 25px;

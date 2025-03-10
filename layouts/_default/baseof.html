@@ -39,7 +39,7 @@
 	<script>
 		// highlight when running on test site
 		window.onload = (e) => {
-			let re = new RegExp(`^/(test-\\w)/`)
+			let re = new RegExp(`^/(test-\\w+)/`)
 			let m = location.pathname.match(re)
 			if (m) {
 				document.querySelector('body').classList.add(m[1])
@@ -51,7 +51,7 @@
 		}
 	</script>
 </head>
-<body class='body{{ if or (in .Site.BaseURL "localhost") (in .Site.BaseURL "test") }} test{{ end }}'>
+<body class='body{{ if (in .Site.BaseURL "localhost") }} localhost{{ end }}'>
 	{{ if or (in .Site.BaseURL "localhost") (in .Site.BaseURL "test") }}
 	<div class="test-header">{{ .Site.BaseURL }}</div>
 	{{ end }}

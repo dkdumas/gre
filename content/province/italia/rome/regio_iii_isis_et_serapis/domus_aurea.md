@@ -83,9 +83,9 @@ The *stagnum* was located in the valley between the Palatine, Oppian, Esquiline 
 The [*Domus Tiberiana*](https://en.wikipedia.org/wiki/Domus_Tiberiana) on the Palatine was incorporated into the *Domus Aurea*. Resting on [cryptoporticoes](http://vocab.getty.edu/page/aat/300004295) and vaulted substructures, the palace was surrounded by [colonnades](http://vocab.getty.edu/page/aat/300002613) which opened onto a [hanging garden](http://vocab.getty.edu/page/aat/300008100) (*nemora pensile*), accessible from the Forum by a grand staircase on the north and another to the east.
 
 The unfinished Temple to the Divine Claudius became a monumental [*nymphaeum*](http://vocab.getty.edu/page/aat/300006809). The eastern wall of the temple platform was transformed into ornamental [niched](http://vocab.getty.edu/page/aat/300002704) [facades](http://vocab.getty.edu/page/aat/300002526) with abundant [fountain](http://vocab.getty.edu/page/aat/300006179) jets fed by a new branch of the [*Aqua Claudia*](https://pleiades.stoa.org/places/423563). The [brick](http://vocab.getty.edu/page/aat/300010463) remains of this *nymphaeum* are visible today along the [*Via Claudia*](https://pleiades.stoa.org/places/688514720)<!--(Fig. 3)-->. The water features drained into the *stagnum*.
-<!-- -->
+
+
 ### Figures
-<!-- -->
 {{< figure src="../images/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" title="Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397)." >}}
 
 <!--{{< figure src="../images/.jpg" alt="Gardens of the Oppian palace" title="Figure 2. Gardens of the Oppian palace (image source)." >}}-->
