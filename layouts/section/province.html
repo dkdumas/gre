@@ -75,7 +75,7 @@
         in {{ $thisplace }}
       {{ end -}}
       {{- if ne $count 1 }} have {{ else }} has {{ end }}
-      been published:
+      been published{{ if .Site.BuildDrafts }}/drafted{{ end }}:
     </div>
     {{- range $pages -}}
       {{- .Render "summary" -}}

@@ -24,7 +24,9 @@ window.store = {
         "title": "{{ .Title }}",
         "smallcrumbs": smallcrumbs("{{ path.Dir .Path }}"),
         "content": {{ .Plain }},
-        "url": "{{ .Permalink }}"},
+        "url": "{{ .Permalink }}",
+        "draft": {{ if .Draft }}true{{ else }}false{{ end }}
+    },
     {{ end }}
 {{ end }}
 }
