@@ -1,4 +1,4 @@
-name: publish to test-drafts website repo, including draft entries
+name: publish to test-drafts website repo
 
 on:
   workflow_dispatch:
