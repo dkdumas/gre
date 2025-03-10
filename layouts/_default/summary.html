@@ -1,4 +1,5 @@
 {{- if len .Summary }}
+	<!-- this template gets used when browsing gardens by location or tag -->
 	<article class="list__item post">
 		{{- if .Params.thumbnail }}
 		<figure class="list__thumbnail">
@@ -8,6 +9,18 @@
 		</figure>
 		{{- end }}
 		<header class="list__header">
+			<div class='smallcrumbs'>
+				{{ $crumbs := replaceRE "/province/" " " (path.Dir .Path) }}
+			    {{ $crumbs = replaceRE "_" " " $crumbs }}
+				{{ $crumbs = replaceRE "/" " / " $crumbs }}
+				{{ $crumbs = title $crumbs }}
+				<!-- capitalize any Roman numerals -->
+				{{ $roman := findRE `\b[IVXivx]+\b` $crumbs }}
+				{{ range $roman }}
+				    {{ $crumbs = replace $crumbs . (upper .) }}
+				{{ end }}
+				{{ $crumbs }}
+		    </div>
 			<h2 class="list__title post__title ">
 				<a href="{{ .RelPermalink }}" rel="bookmark">
 				{{ .Title }}
@@ -24,9 +37,13 @@
 
     <!-- extract and render start of garden description -->
 		<div class="content list__excerpt post__content clearfix">
-			{{ $summary_parts := split .Summary "Garden Description" }}
-			{{ $summary_excerpt := index $summary_parts 1 }}
-			{{ htmlUnescape (substr $summary_excerpt 0 250) }}...
+			<!-- Excerpt 180 characters, starting with the Garden Description -->
+			{{ $split := split .Summary "Garden Description" }}
+			{{ $excerpt := (index $split 1) | plainify | htmlUnescape }}
+			{{ $excerpt = substr $excerpt 0 180 }}
+			<!-- Remove trailing characters (so no partial words)-->
+			{{ $excerpt = replaceRE ` \w+$` " " $excerpt }}
+			{{ $excerpt }}...
 		</div>
 
 		{{- if .Site.Params.readmore }}

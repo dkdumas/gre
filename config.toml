@@ -4,7 +4,6 @@ relativeURLs = false
 languageCode = "en-us"
 title = "Gardens of the Roman Empire"
 theme = "mainroad"
-paginate = "1000"
 
 publishDir = "docs"
 
@@ -12,7 +11,12 @@ buildDrafts = false
 enableEmoji = true
 enableInlineShortcodes = true
 
+# This needs to be high to insure .Summary includes the Garden Description
 summaryLength = 10000
+
+# suppress warnings about having raw HTML in markdown (used for tables, etc.)
+ignoreLogs = ['warning-goldmark-raw-html']
+
 
 [menu]
 
@@ -31,7 +35,7 @@ summaryLength = 10000
 	[[menu.main]]
 		identifier = "gardens"
 		name = "Gardens"
-		url = "/"
+		url = "/province/"
 		weight = -110
 
 	[[menu.main]]
@@ -60,21 +64,21 @@ summaryLength = 10000
 
 
 [Params]
-  twitter_cards = true
-  images = ["images/landing-page-map-1.png"]
-  customCSS = ["css/custom.css"]
-  highlightColor = "#c22d30"
+	twitter_cards = false
+	images = ["images/landing-page-map-1.png"]
+	customCSS = ["css/custom.css"]
+	highlightColor = "#c22d30"
 
 [Params.logo]
-  title = "GARDENS of the ROMAN EMPIRE"
+	title = "GARDENS of the ROMAN EMPIRE"
 
 [Params.sidebar]
 	home = "left" # Configure layout for home page
 	list = "left"  # Configure layout for list pages
 	single = "left" # Configure layout for single pages
 	# Enable widgets in given order
-	# widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
-	widgets = ["search-lunr", "map", "provinces", "taglist"]
+	# widgets = ["search", "recent", "categories", "taglist", "provinces"]
+	widgets = ["search-lunr", "map"]
 
 [Params.widgets]
 	recent_num = 2 # Set the number of articles in the "Recent articles" widget

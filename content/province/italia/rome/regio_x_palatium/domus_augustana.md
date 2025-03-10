@@ -1,4 +1,6 @@
 ---
+gre_id: "b03661296b"
+aliases: [/id/b03661296b]
 article-type: "province"
 title: "Domus Augustana"
 date: 2021-04-08T02:46:42+02:00
@@ -65,13 +67,13 @@ In the upper peristyle garden in the middle of a large rectangular [pool](http:/
  <!-- -->
  RELATED PHASES ON THE PALATINE:
  <!-- -->
- [Gardens of the Republican Domus (A)]({{<relref"/palatine_domus">}})\
- [Garden of the House of Augustus (B)]({{<relref"/house_of_augustus">}})\
- [Garden of the Domus Tiberiana (C)]({{<relref"/Domus_tiberiana">}})\
- [Garden of the Neronian Palace (D)]({{<relref"/domus_transitoria">}})\
- [Garden of the Domus Flavia (E)]({{<relref"/Domus_flavia">}})\
- [Garden of the Palatine Stadium (H)]({{<relref"/palatine_stadium">}})\
- [Garden of the Severan Complex (I)]({{<relref"/severan_complex">}})
+ [Gardens of the Republican Domus (A)]({{<relref"palatine_domus">}})\
+ [Garden of the House of Augustus (B)]({{<relref"house_of_augustus">}})\
+ [Garden of the Domus Tiberiana (C)]({{<relref"Domus_tiberiana">}})\
+ [Garden of the Neronian Palace (D)]({{<relref"domus_transitoria">}})\
+ [Garden of the Domus Flavia (E)]({{<relref"Domus_flavia">}})\
+ [Garden of the Palatine Stadium (H)]({{<relref"palatine_stadium">}})\
+ [Garden of the Severan Complex (I)]({{<relref"severan_complex">}})
  <!-- -->
  <!-- -->
 

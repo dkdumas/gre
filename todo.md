@@ -2,9 +2,9 @@
 # New for Launch on April 15, 2021
 
 - [ ] Set `draft: true` in:
-  - [ ] Gallia
-  - [ ] Hispania
-  - [ ] Other ?
+    - [ ] Gallia
+    - [ ] Hispania
+    - [ ] Other ?
 - [ ] Update template with new look and feel
 - [ ] Page should have an alphabetical list of authors with hyperlinks to searches for those names, so that if someone clicks on it, it pulls up the search results for that author.
 
@@ -41,14 +41,14 @@
 - Title in title case with spaces?
 - Province `relref` correct?
 - Location
-  - folder `relref`
-  - Pleiades ID
+    - folder `relref`
+    - Pleiades ID
 - Keywords, separated by newline (`\` at end of line)
 - Sublocation `relref` present? -> comment out for now
 - Pleiades ID
-  - Numbers in link?
-  - `"(Pleiades)"` in link? -> delete
-  - Two links present, one with `relref` -> delete `relref`
+    - Numbers in link?
+    - `"(Pleiades)"` in link? -> delete
+    - Two links present, one with `relref` -> delete `relref`
 - figures linked correctly?
 - check all `ref`s to other gardens, should be `relref`s
 
@@ -84,3 +84,21 @@
 - [x] *Aedicula lararium* added as one keyword merged from the two currently listed.
 - [x] Should I include excavations dates in date section?
 - [x] Province edits for keywords
+
+
+# TODO 2025
+
+- merge nav-merge into master-new
+
+
+
+
+
+
+- reconsider "All Gardens" when browsing by location
+- rename "province" to "gardens"
+- remove unused layouts
+- remove PROVINCE_ID from front matter
+- move province descriptions from garden to separate files?
+- recover gallia aquitania entries? https://github.com/roman-gardens/gre/commit/06b191b293c531a31dca04631b02d031a3a1b32d
+- document how theme files should be edited (not in mainroad directory!)

@@ -1,4 +1,6 @@
 ---
+gre_id: "9970d12455"
+aliases: [/id/9970d12455]
 article-type: "province"
 title: "Gardens of the Temple of Elagabalus"
 date: 2021-02-19T16:52:54+01:00
@@ -73,9 +75,9 @@ Though we cannot be certain about the plant species chosen, we can nevertheless 
 <!-- -->
 OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
-[Vigna Barberini]({{<relref"/vigna_barberini.md">}})\
-[Garden of the Peristyle of the Julio-Claudian *Domus*]({{<relref"/julio_claudian_domus.md">}})\
-[Garden of the Flavian Imperial Palace]({{<relref"/flavian_imperial_palace.md">}})
+[Vigna Barberini]({{<relref"vigna_barberini">}})\
+[Garden of the Peristyle of the Julio-Claudian *Domus*]({{<relref"julio_claudian_domus">}})\
+[Garden of the Flavian Imperial Palace]({{<relref"flavian_imperial_palace">}})
 <!-- -->
 ### Figures
 <!-- -->

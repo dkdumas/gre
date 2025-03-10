@@ -1,9 +1,11 @@
 ---
+gre_id: "1e129b7e3b"
+aliases: [/id/1e129b7e3b]
 article-type: "province"
 title: "The Late Republican Domus"
 date: 2021-04-03T23:08:29+02:00
 latlon: [ 41.889306, 12.487109 ]
-province_id: PROVINCE_ID
+province_id: ITALIA
 author: M.-A. Tomei  
 editor: Rhiannon Paré
 draft: false

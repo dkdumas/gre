@@ -1,4 +1,6 @@
 ---
+gre_id: "da916f5290"
+aliases: [/id/da916f5290]
 article-type: "province"
 title: "The Garden of the Julio-Claudian Domus"
 date: 2021-04-04T21:57:59+02:00
@@ -63,9 +65,9 @@ The *domus* of the Vigna Barberini was included in [Nero's](https://en.wikipedia
 <!-- -->
 OTHER PHASES OF THE VIGNA BARBERINI SITE:
 <!-- -->
-[Vigna Barberini]({{<relref"/vigna_barberini.md">}})\
-[Garden of the Flavian Imperial Palace]({{<relref"/flavian_imperial_palace.md">}})\
-[Garden of the Temple of Elagabalus]({{<relref"/temple_of_elagabalus.md">}})
+[Vigna Barberini]({{<relref"vigna_barberini">}})\
+[Garden of the Flavian Imperial Palace]({{<relref"flavian_imperial_palace">}})\
+[Garden of the Temple of Elagabalus]({{<relref"temple_of_elagabalus">}})
 <!-- -->
 ### Figures
 <!-- -->
