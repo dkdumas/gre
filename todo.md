@@ -88,20 +88,17 @@
 
 # TODO 2025
 
-- merge nav-merge into master-new
-
-
-
-
-
-
-- reconsider "All Gardens" when browsing by location
-- rename "province" to "gardens"
-- remove unused layouts
-- remove PROVINCE_ID from front matter
-- move province descriptions from garden to separate files?
-- recover gallia aquitania entries? https://github.com/roman-gardens/gre/commit/06b191b293c531a31dca04631b02d031a3a1b32d
-- document how theme files should be edited (not in mainroad directory!)
-- Bibliography first item actually two? https://roman-gardens.github.io/province/italia/rome/regio_x_palatium/domus_augustana/
-- duplicate image hispania_tarraconensis/albaledejo
-- many dupl images in thugga -- warning!  the "2" image may be older (missing additional label/green patch)
+- [x] merge nav-merge into master-new (which will be renamed "main" and become the default branch)
+- [ ] reconsider "All Gardens" when browsing by location
+- [ ] rename "province" to "gardens"
+- [ ] remove unused layouts
+- [ ] remove PROVINCE_ID from front matter
+- [ ] move province descriptions from garden to separate files?
+- [ ] recover gallia aquitania entries? https://github.com/roman-gardens/gre/commit/06b191b293c531a31dca04631b02d031a3a1b32d
+- [ ] document how theme files should be edited (not in mainroad directory!)
+- [ ] Bibliography first item actually two? https://roman-gardens.github.io/province/italia/rome/regio_x_palatium/domus_augustana/
+- [ ] duplicate image hispania_tarraconensis/albaledejo
+- [ ] many dupl images in thugga -- warning!  the "2" image may be older (missing additional label/green patch)
+- [ ] convert .tif images to web-friendly format
+- [ ] move all images to separate repo? -- experiment and assess pros/cons
+- [ ] alternative names -- example https://roman-gardens.github.io/test-a/id/5c8aada6d5
