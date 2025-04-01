@@ -21,46 +21,39 @@ ignoreLogs = ['warning-goldmark-raw-html']
 [menu]
 
 	[[menu.main]]
-		identifier = "home"
 		name = "Home"
-		url = "/home/"
-		weight = -130
+		pageRef = "/home/"
+		weight = 10
 
 	[[menu.main]]
-		identifier = "about"
 		name = "About"
-		url = "/about/"
-		weight = -120
+		pageRef = "/about/"
+		weight = 20
 
 	[[menu.main]]
-		identifier = "gardens"
 		name = "Gardens"
-		url = "/province/"
-		weight = -110
+		pageRef = "/province/"
+		weight = 30
 
 	[[menu.main]]
-		identifier = "contributors"
 		name = "People"
-		url = "/contributors/"
-		weight = -100
+		pageRef = "/contributors/"
+		weight = 40
 
 	[[menu.main]]
-		identifier = "contribute"
+		name = "History"
+		pageRef = "/history/"
+		weight = 50
+
+	[[menu.main]]
 		name = "Join"
-		url = "/contribute/"
-		weight = -90
+		pageRef = "/contribute/"
+		weight = 60
 
 	[[menu.main]]
-		identifier = "blog"
-		name = "News"
-		url = "/blog/"
-		weight = -80
-
-	[[menu.main]]
-		identifier = "citation"
 		name = "How to Cite"
-		url = "/citation/"
-		weight = -70
+		pageRef = "/citation/"
+		weight = 70
 
 
 [Params]

@@ -15,7 +15,7 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 ### Editors
 - *Wilhelmina Jashemski*\* , University of Maryland
 - [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University, Executive Editor: <klg16@cornell.edu>
-- [Kim J. Hartswick](https://cunyba.cuny.edu/staff/kim-hartswick/), CUNY Graduate Center
+- Kim J. Hartswick, CUNY Graduate Center
 - [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), AOROC, CNRS ENS PSL
 
 ### Website publication designers & technical advisors
