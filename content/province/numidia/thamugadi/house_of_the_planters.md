@@ -80,7 +80,7 @@ House of the Planters (Maison aux jardinières)
 -->
 
 ### Images
-{{< figure src="../images/house_of_the_planters_drawing.jpeg" alt="Drawing of the courtyard of the House of the Planter; rights statement" title="Fig. 2: Drawing of the courtyard of the House of the Planter (Ballu, A., 1897,fig. 36)" >}}
+{{< figure src="../images/house_of_the_planters_drawing.jpg" alt="Drawing of the courtyard of the House of the Planter; rights statement" title="Fig. 2: Drawing of the courtyard of the House of the Planter (Ballu, A., 1897,fig. 36)" >}}
 
 <!--{{< figure src="../images/#" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi; rights statement" title="Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ). (Rights statement)" >}}
 -->

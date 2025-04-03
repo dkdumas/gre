@@ -73,7 +73,7 @@ The garden A mentioned as an open area was excavated in 1930-1931 and in 1944 (P
 
 {{< figure src="../images/small_baths_rectangular_pool.jpg" alt="Drawing of reconstruction of the rectangular pool" title="Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)">}}
 
-{{< figure src="../images/venus_djemila.jpeg" alt="Venus" title="Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)">}}
+{{< figure src="../images/venus_djemila.jpg" alt="Venus" title="Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)">}}
 ### Dates
 
 Early 3rd century CE

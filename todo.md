@@ -97,8 +97,8 @@
 - [ ] recover gallia aquitania entries? https://github.com/roman-gardens/gre/commit/06b191b293c531a31dca04631b02d031a3a1b32d
 - [ ] document how theme files should be edited (not in mainroad directory!)
 - [ ] Bibliography first item actually two? https://roman-gardens.github.io/province/italia/rome/regio_x_palatium/domus_augustana/
-- [ ] duplicate image hispania_tarraconensis/albaledejo
+- [ ] rename 37 JPG files to jpg
 - [ ] many dupl images in thugga -- warning!  the "2" image may be older (missing additional label/green patch)
-- [ ] convert .tif images to web-friendly format
+- [ ] convert .tif, .ai, and .ppt files to .jpg or .png
 - [ ] move all images to separate repo? -- experiment and assess pros/cons
 - [ ] alternative names -- example https://roman-gardens.github.io/test-a/id/5c8aada6d5

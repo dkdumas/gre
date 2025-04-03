@@ -83,9 +83,9 @@ The so-called “hippodrome garden” type (see the Domus Flavia on the Palatine
 
 ### Images
 
-{{< figure src="../images/corinth-circus-restored.jpeg" alt="reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta" title="Fig 2. Reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta. Drawing by David Pacifico for the Corinth Computer Project." >}}
+{{< figure src="../images/corinth-circus-restored.jpg" alt="reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta" title="Fig 2. Reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta. Drawing by David Pacifico for the Corinth Computer Project." >}}
 
-{{< figure src="../images/amphora-in-planting-pit.jpeg" alt="fragmentary amphora found in pit 2 in the spina of the Roman circus" title="Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman." >}}
+{{< figure src="../images/amphora-in-planting-pit.jpg" alt="fragmentary amphora found in pit 2 in the spina of the Roman circus" title="Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman." >}}
 
 ### Dates
 <!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->

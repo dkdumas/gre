@@ -62,11 +62,11 @@ These two sites represent a rare glimpse of the transformation of suburban Rome 
 -->
 
 ### Plans
-{{< figure src="../images/E:\LA6940_Roman Garden\gre-master\gre-master\content\province\italia\via gabina\image\fig04_recon_phase2d.jpg" alt="fig04_recon_phase2d" title="fig04_recon_phase2d">}}
+{{< figure src="../images/fig04_recon_phase2d.jpg" alt="fig04_recon_phase2d" title="fig04_recon_phase2d">}}
 
 ### Images
-{{< figure src="../images/E:\LA6940_Roman Garden\gre-master\gre-master\content\province\italia\via gabina\image\fig05_recon_phase2d.jpg" alt="fig05_recon_phase2d." title="fig05_recon_phase2d.">}}
-{{< figure src="../images/E:\LA6940_Roman Garden\gre-master\gre-master\content\province\italia\via gabina\image\fig06_10emboecus.jpg" alt="fig06_10emboecus." title="The Rape of Hylas.">}}
+{{< figure src="../images/fig05_recon_phase2d.jpg" alt="fig05_recon_phase2d." title="fig05_recon_phase2d.">}}
+{{< figure src="../images/fig06_10emboecus.jpg" alt="fig06_10emboecus." title="The Rape of Hylas.">}}
 
 ### Dates
 Unspecified

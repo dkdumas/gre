@@ -54,7 +54,7 @@ The courtyard of the peristyle, which was paved with mosaics, was lined with bui
 
 ### Images
 
-{{< figure src="../images/omni_tibia_felicia_dougga.jpeg" alt="Plan of the House Omnia Tibi Felicia" title="Fig. 1: Plan of the House Omnia Tibi Felicia (Les ruines de Dougga, Tunis, 1958, p 45.)" >}}
+{{< figure src="../images/omni_tibia_felicia_dougga.jpg" alt="Plan of the House Omnia Tibi Felicia" title="Fig. 1: Plan of the House Omnia Tibi Felicia (Les ruines de Dougga, Tunis, 1958, p 45.)" >}}
 
 ### Dates
 

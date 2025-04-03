@@ -54,10 +54,10 @@ This villa at Site 11 was a simple “U” plan farmhouse initiated at the begin
 -->
 
 ### Plans
-{{< figure src="../images/E:\LA6940_Roman Garden\gre-master\gre-master\content\province\italia\via gabina\image\fig02_11plan2bc.jpg" alt="fig02_11plan2bc." title="Plan at the Villa at site 11.">}}
+{{< figure src="../images/fig02_11plan2bc.jpg" alt="fig02_11plan2bc." title="Plan at the Villa at site 11.">}}
 
 ### Images
-{{< figure src="../images/E:\LA6940_Roman Garden\gre-master\gre-master\content\province\italia\via gabina\image\fig03_11axon2bc.jpg" alt="fig03_11axon2bc." title="fig03_the axon of the Villa at site 11.">}}
+{{< figure src="../images/fig03_11axon2bc.jpg" alt="fig03_11axon2bc." title="fig03_the axon of the Villa at site 11.">}}
 
 ### Dates
 Unspecified
