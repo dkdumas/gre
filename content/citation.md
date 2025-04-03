@@ -11,7 +11,7 @@ draft: false
 
 Cite a garden page using the permalink found at the top of the page:
 
-> Patrich, J. (2020). "Caesarea Maritima Byzantine Law Court and Roof Garden." Gardens of the Roman Empire, accessed March 31, 2025, https://roman-gardens.github.io/id/5c1a7e251d
+> Patrich, J. (2021). "Caesarea Maritima Byzantine Law Court and Roof Garden." Gardens of the Roman Empire, accessed March 31, 2025, https://roman-gardens.github.io/id/5c1a7e251d
 
 ### For a province (with editor)
 
