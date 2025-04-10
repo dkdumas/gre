@@ -17,6 +17,7 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University, Executive Editor: <klg16@cornell.edu>
 - Kim J. Hartswick, CUNY Graduate Center
 - [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), AOROC, CNRS ENS PSL
+- [Divya Kumar-Dumas](https://isaw.nyu.edu/people/affiliates/research-associates/divya-kumar-dumas), ISAW/NYU, Digital Editor <dk4338@nyu.edu> 
 
 ### Website publication designers & technical advisors
 *Website and Data Structure Design*
