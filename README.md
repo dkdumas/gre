@@ -23,7 +23,7 @@ The text after the final slash (`my_garden.md`) should be the full name of the g
 
 ## Committing changes
 
-(TO DO)
+(TO DO) We will use VSCode...
 
 
 ## Reporting issues
