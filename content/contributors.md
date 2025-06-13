@@ -13,8 +13,8 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - Corresponding editors are noted in **bold**.
 
 ## Executive Editors & Digital Humanities Team
-- [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University, Editor-in-Chief 
-- [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), AOROC, CNRS ENS PSL, Editor-in-Chief
+- [Kathryn Gleason](https://archaeology.cornell.edu/kathryn-gleason), Cornell University, Director & Executive Editor-in-Chief 
+- [Amina-Aïcha Malek](http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr), AOROC, CNRS ENS PSL, Director & Executive Editor-in-Chief
 - [Divya Kumar-Dumas](mailto:dk4338@nyu.edu), ISAW/NYU, Managing Editor & Digital Strategy Coordinator
 - [Keith Jenkins](mailto:kgj2@cornell.edu), Cornell University, Technical Lead
 
